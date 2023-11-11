@@ -1,3 +1,0 @@
-This is my first python project on github
-
-Where is my changes?
